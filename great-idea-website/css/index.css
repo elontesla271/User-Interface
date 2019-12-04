@@ -64,3 +64,87 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+#top {
+	margin-bottom: 50px;
+	background-color: green;
+	position: fixed;
+	width: 100%;
+}
+
+#nav-bar {
+	width: 70%;
+	vertical-align: top;
+	padding-top: 10px;
+	color: #B4B4B4;
+}
+
+#image-container {
+	width: 29%;
+}
+
+.top-entry {
+	display: inline-block;
+}
+
+.bar-entry {
+	width: 16%;
+	display: inline-block;
+}
+#center-text {
+	float: left;
+	width: 50%;
+	text-align: center;
+}
+
+#innovation {
+	margin-top: 100px;
+	font-size: 80px;
+}
+
+#code-image {
+	margin-top: 50px;
+}
+
+#started {
+	border: 1px solid black;
+	font-size: 20px;
+	width: 200px;
+	height: 40px;
+	margin: 0px auto;
+	padding-top: 10px;
+}
+
+.bottom-top-entry {
+	width: 49%;
+	display: inline-block;
+	margin: 30px 0px;
+}
+
+.middle-img {
+	margin: 0px auto;
+	display: block;
+}
+
+.bottom-bottom-entry {
+	width: 33%;
+	display: inline-block;
+	margin: 30px 0px;
+}
+
+#contact {
+	margin-top: 30px;
+}
+
+#state {
+	margin-bottom: 20px;
+}
+
+#phone {
+	margin-bottom: 20px;
+}
+
+#copyright {
+	text-align: center;
+	margin-top: 40px;
+}
